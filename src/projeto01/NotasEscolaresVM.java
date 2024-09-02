@@ -42,5 +42,6 @@ public class NotasEscolaresVM {
             System.out.println("Aluno(a): " + alunos[i][0]+ ":\nMédia: "+ notas [i][5]+ "\nFreq.: "+ notas[i][4]+ "\nResultado Final: "+ alunos[i][1]+ "\n-----");
         }
         System.out.println(".: Sistemas de notas encerrado :.");
+        System.out.println("Alterado no VS online");
     }
 }
