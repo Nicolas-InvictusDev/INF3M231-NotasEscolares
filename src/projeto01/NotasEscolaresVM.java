@@ -43,5 +43,6 @@ public class NotasEscolaresVM {
         }
         System.out.println(".: Sistemas de notas encerrado :.");
         System.out.println("Alterado no VS online");
+        System.out.println("Teste de pull and pull");
     }
 }
